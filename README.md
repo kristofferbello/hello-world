@@ -4,4 +4,4 @@ Sample Respository
 Hi Github,
 This is a sample github practice
 
-By: Kristoffer Bello
+By: Kristoffer2 Bello
